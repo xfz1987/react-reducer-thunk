@@ -1,6 +1,6 @@
 {
   "name": "react-reducer-thunk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react hooks useReducer for asynchronous processing",
   "main": "lib/index.js",
   "files": [
