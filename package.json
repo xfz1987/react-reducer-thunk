@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xfz1987/reducer-thunk.git"
+    "url": "git+https://github.com/xfz1987/react-reducer-thunk.git"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   "author": "xfz1987",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xfz1987/reducer-thunk/issues"
+    "url": "https://github.com/xfz1987/react-reducer-thunk/issues"
   },
-  "homepage": "https://github.com/xfz1987/reducer-thunk#readme",
+  "homepage": "https://github.com/xfz1987/react-reducer-thunk#readme",
   "dependencies": {
     "react": "^16.8.6"
   },
